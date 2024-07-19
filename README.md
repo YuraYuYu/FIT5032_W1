@@ -1,1 +1,2 @@
-# FIT5032_W-LiangXiaowei,Studio 1A,1B and 2.
+# FIT5032_W-YaYu&LiangXiaowei,Studio1B.
+Team of Ya Yu and Xiaowei Liang
